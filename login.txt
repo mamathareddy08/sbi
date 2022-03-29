@@ -1,5 +1,3 @@
-user name:mamatha
-password:mamatha
- welcome
- have a nice day
-hello
+hi hello
+this is git hub
+welcom
