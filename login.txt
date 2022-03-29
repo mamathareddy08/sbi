@@ -1,2 +1,5 @@
 user name:mamatha
 password:mamatha
+ welcome
+ have a nice day
+hello
